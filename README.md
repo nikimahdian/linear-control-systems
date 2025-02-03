@@ -16,21 +16,6 @@ Electrical and Computer Engineering Faculty
 
 ---
 
-## **📚 Course Topics**
-✔ Fundamentals of Linear Control Systems  
-✔ Control system structures and modeling  
-✔ Block diagrams and transfer functions  
-✔ Signal Flow Graph (SFG) method  
-✔ Time-domain and frequency-domain analysis  
-✔ Stability analysis techniques  
-✔ Routh-Hurwitz stability criterion  
-✔ Root Locus method & plotting rules  
-✔ Frequency response methods (Bode, Nyquist)  
-✔ Controller design (PD, PI, PID, Lead, Lag)  
-✔ MATLAB/Python simulations for control systems  
-
----
-
 ## **📂 Repository Structure**
 This repository is organized as follows:  
 
