@@ -8,4 +8,3 @@ This repository contains an assignment on **Control Systems**, where we explore 
 - 📈 **Root Locus**: Analyzing pole movement as gain varies.
 - 📏 **Phase Margin & Gain Margin Calculation**: Evaluating system stability.
 
----
